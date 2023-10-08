@@ -1,1 +1,0 @@
-"Folder containing the .exe and necessary files for executing it"
